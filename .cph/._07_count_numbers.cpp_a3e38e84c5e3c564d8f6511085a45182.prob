@@ -1,0 +1,1 @@
+{"name":"Local: _07_count_numbers","url":"e:\\OJ Problem\\Dimik OJ\\_07_count_numbers.cpp","tests":[{"id":1717347854124,"input":"4\n1 -2 10000 -50 20 7 445\n9\n-98 876 65\n223 9876452 212","output":"7\n1\n3\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OJ Problem\\Dimik OJ\\_07_count_numbers.cpp","group":"local","local":true}
