@@ -1,1 +1,0 @@
-{"name":"Local: _06_sum","url":"e:\\OJ Problem\\Dimik OJ\\_06_sum.cpp","tests":[{"id":1717347304738,"input":"5\n12345\n56789\n14310\n10062\n96587","output":"Sum = 6\nSum = 14\nSum = 1\nSum = 3\nSum = 16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OJ Problem\\Dimik OJ\\_06_sum.cpp","group":"local","local":true}

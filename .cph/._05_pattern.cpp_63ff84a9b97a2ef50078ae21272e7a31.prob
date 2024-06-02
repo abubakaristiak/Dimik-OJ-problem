@@ -1,1 +1,0 @@
-{"name":"Local: _05_pattern","url":"e:\\OJ Problem\\Dimik OJ\\_05_pattern.cpp","tests":[{"id":1717346238728,"input":"3\n1\n3\n5","output":"*\n\n***\n***\n***\n\n*****\n*****\n*****\n*****\n*****"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OJ Problem\\Dimik OJ\\_05_pattern.cpp","group":"local","local":true}
