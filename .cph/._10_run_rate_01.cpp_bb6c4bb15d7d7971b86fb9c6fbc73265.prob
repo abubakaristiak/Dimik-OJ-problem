@@ -1,0 +1,1 @@
+{"name":"Local: _10_run_rate_01","url":"e:\\OJ Problem\\Dimik OJ\\_10_run_rate_01.cpp","tests":[{"id":1717412824665,"input":"4\n300 294 6\n200 100 100\n333 250 40\n118 100 180","output":"6.00 7.00\n3.00 6.06\n5.77 12.60\n5.00 0.63"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OJ Problem\\Dimik OJ\\_10_run_rate_01.cpp","group":"local","local":true}
