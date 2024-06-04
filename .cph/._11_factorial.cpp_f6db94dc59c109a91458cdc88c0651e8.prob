@@ -1,0 +1,1 @@
+{"name":"Local: _11_factorial","url":"e:\\OJ Problem\\Dimik OJ\\_11_factorial.cpp","tests":[{"id":1717526486907,"input":"3\n6\n10\n15","output":"720\n3628800\n1307674368000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OJ Problem\\Dimik OJ\\_11_factorial.cpp","group":"local","local":true}
