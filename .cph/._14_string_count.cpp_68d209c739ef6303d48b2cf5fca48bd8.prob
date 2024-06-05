@@ -1,0 +1,1 @@
+{"name":"Local: _14_string_count","url":"e:\\OJ Problem\\Dimik OJ\\_14_string_count.cpp","tests":[{"id":1717564867354,"input":"2\nhello world\nl\nhello world\na","output":"Occurrence of 'l' in 'hello world' = 3\n'a' is not present\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OJ Problem\\Dimik OJ\\_14_string_count.cpp","group":"local","local":true}
