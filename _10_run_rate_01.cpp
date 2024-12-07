@@ -1,29 +1,53 @@
-// Pending
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
 int main()
 {
     int t;
+    float r1, r2, b, crr, rrr;
     cin >> t;
-    while(t--)
+    while (t--)
     {
-        int total_run, current_run, balls_left;
-        cin >> total_run >> current_run >> balls_left;
+        cin >> r1 >> r2 >> b;
+        crr = r2 / ((300 - b) / 6);
+        if (r2 > r1)
+        {
 
-        double over_bowled = (300.0-balls_left)/6.0;
-        double bortoman_run_rate = (double)current_run/over_bowled;
+            rrr = 0.00;
+        }
+        else
+        {
 
-        double overs_remainning = balls_left/6.0;
-        double kakito_run_rate = (double)(total_run+1 - current_run)/overs_remainning;
+            rrr = (r1 - r2 + 1) / (b / 6);
+        }
 
-        cout << fixed << setprecision(2) << bortoman_run_rate <<" "<<kakito_run_rate << endl;
-
-        
+        printf("%.2f %.2f\n", crr, rrr);
     }
-    
-    return 0;
 }
 
+// #include<bits/stdc++.h>
+// using namespace std;
+// int main()
+// {
+//     int t;
+//     cin >> t;
+//     while(t--)
+//     {
+//         int total_run, current_run, balls_left;
+//         cin >> total_run >> current_run >> balls_left;
+
+//         double over_bowled = (300.0-balls_left)/6.0;
+//         double bortoman_run_rate = (double)current_run/over_bowled;
+
+//         double overs_remainning = balls_left/6.0;
+//         double kakito_run_rate = (double)(total_run+1 - current_run)/overs_remainning;
+
+//         cout << fixed << setprecision(2) << bortoman_run_rate <<" "<<kakito_run_rate << endl;
+
+//     }
+
+//     return 0;
+// }
 
 /*
 NOTES

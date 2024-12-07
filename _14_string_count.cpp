@@ -14,8 +14,8 @@ int main()
         cin >> c;
         cin.ignore();
         int s_count = 0;
-        for(int i=0; i<s.length(); i++){
-            if(c==s[i]){
+        for(char ch:s){
+            if(ch==c){
                 s_count++;
             }
         }
